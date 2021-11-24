@@ -13,7 +13,7 @@ The code is well commented, if you have any questions or want to continue this p
 ### How to run the project:
 
 #### Requirements:
-* Java runtime installed
+* Java runtime installed (8-11)
 
 #### How to play the game:
 
@@ -24,6 +24,6 @@ The code is well commented, if you have any questions or want to continue this p
 
 #### How build with maven and play the game:
 Usage:
-* mvn clean
-* mvn package
+* ./mvnw clean
+* ./mvnw.cmd package
 * java -jar .\target\snake-0.0.1.jar
