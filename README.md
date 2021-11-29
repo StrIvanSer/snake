@@ -24,6 +24,6 @@ The code is well commented, if you have any questions or want to continue this p
 
 #### How build with maven and play the game:
 Usage:
-* ./mvnw clean
-* ./mvnw package
+* .\mvnw clean
+* .\mvnw package
 * java -jar .\target\snake-0.0.1.jar
